@@ -1,0 +1,50 @@
+h1 {
+  text-align: center;
+}
+
+.container {
+  border: 3px solid darkgreen;
+  box-sizing: border-box;
+  padding: 30px;
+  width: 80%;
+  text-align: center;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.triangle {
+  display: inline-block;
+}
+
+.line {
+  height: 50px;
+}
+
+.box {
+  width: 50px;
+  height: 50px;
+  background-color: darkgreen;
+  display: inline-block;
+  background: darkgreen;
+}
+
+.box-empty {
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  display: inline-block;
+}
+
+.visit {
+  padding: 30px;
+}
+
+.input-container {
+  padding: 30px;
+  width: 80%;
+  text-align: center;
+  margin: auto;
+}
